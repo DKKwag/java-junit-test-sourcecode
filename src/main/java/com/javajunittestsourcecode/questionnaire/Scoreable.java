@@ -1,4 +1,4 @@
-package com.javajunittestsourcecode.chapter01;
+package com.javajunittestsourcecode.questionnaire;
 
 @FunctionalInterface
 public interface Scoreable {

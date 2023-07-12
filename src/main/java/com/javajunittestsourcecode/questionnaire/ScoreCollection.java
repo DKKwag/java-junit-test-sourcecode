@@ -1,4 +1,4 @@
-package com.javajunittestsourcecode.chapter01;
+package com.javajunittestsourcecode.questionnaire;
 
 import java.util.ArrayList;
 import java.util.List;

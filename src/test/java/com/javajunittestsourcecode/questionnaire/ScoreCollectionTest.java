@@ -1,6 +1,5 @@
-package com.javajunittestsourcecode.chapter01;
+package com.javajunittestsourcecode.questionnaire;
 
-import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.*;
